@@ -9,7 +9,7 @@ function App() {
     return (
 
         <div className="md:flex  bg-pale-blue md:items-center md:justify-center md:h-screen">
-            <section className=" md:flex shadow-lg md:rounded-3xl bg-white">
+            <section className=" md:flex shadow-lg md:rounded-3xl w-fix bg-white">
 
                 <div className=" bg-gradient-to-t from-slate-blue-dark to-slate-blue-light p-8 text-center
                                  text-white flex flex-col items-center rounded-b-3xl md:flex-1 md:rounded-3xl">
@@ -22,7 +22,7 @@ function App() {
                         <span className=" text-7xl font-bold text-white">76</span> of 100
                     </p>
                     <h2 className="my-6 text-2xl font-bold">Great</h2>
-                    <p className=" text-slate-400 ">You scored higher than 65% of the people who have taken these tests.</p>
+                    <p className=" text-slate-300 w-52">You scored higher than 65% of the people who have taken these tests.</p>
 
                 </div>
                 <div className="p-6 md:flex-1 bg-white md:rounded-3xl">
