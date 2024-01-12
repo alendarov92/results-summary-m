@@ -8,7 +8,7 @@ function App() {
 
     return (
 
-        <div className="md:flex  bg-pale-blue md:items-center md:justify-center md:h-screen">
+        <div className="md:flex   md:items-center md:justify-center md:h-screen">
             <section className=" md:flex shadow-lg md:rounded-3xl w-fix bg-white">
 
                 <div className=" bg-gradient-to-t from-slate-blue-dark to-slate-blue-light p-8 text-center
