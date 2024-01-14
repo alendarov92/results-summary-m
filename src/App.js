@@ -9,7 +9,7 @@ function App() {
     return (
 
         <div className="md:flex   md:items-center md:justify-center md:h-screen">
-            <section className=" md:flex shadow-lg md:rounded-3xl w-fix bg-white">
+            <section className=" md:flex shadow-lg md:rounded-3xl w-full bg-white">
 
                 <div className=" bg-gradient-to-t from-slate-blue-dark to-slate-blue-light p-8 text-center
                                  text-white flex flex-col items-center rounded-b-3xl md:flex-1 md:rounded-3xl">
